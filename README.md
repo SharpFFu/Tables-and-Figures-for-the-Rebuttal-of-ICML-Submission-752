@@ -23,12 +23,14 @@ In particular, this repository does **not** contain any extra technical write-up
 ![Figure 1](ProcGen_result_2seed.png)
 
 *Caption:* ProcGen evaluation with **2 seeds** on 16 tasks at 50 million steps.
+
 ---
 
 ### Figure 2. ProcGen result (5 seeds)
 ![Figure 2](ProcGen_result_5seed.png)
 
 *Caption:* ProcGen evaluation with **5 seeds** on 16 tasks at 50 million steps.
+
 ---
 
 ### Figure 3. Sensitivity analysis for the quantile filtering ratio $\alpha$
